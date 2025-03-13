@@ -9,9 +9,9 @@ This is hexagonal-banana's github account😊
 📖TA, Computer Networks Course, 2024 Spring
 
 ## Interest
-game: Genshin Impact😋, Valorant🔫
-photography📷
-bodybuilding
+game: Genshin Impact😋, Valorant🔫  
+photography📷  
+bodybuilding  
 <!--
 **hexagonal-banana/hexagonal-banana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
