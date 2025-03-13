@@ -1,12 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 This is hexagonal-banana's github account😊
 
 ## Education
-🖥️Undergraduate at School of Computer Science, Nanjing Univesity. (2021-2025)  
-🖥️Graduate at School of Computer Science, Nanjing Univesity. (2025-2028, if smoothly)
+🖥️Bachelor, School of Computer Science, Nanjing Univesity. (2021-2025)  
+🖥️Graduate, School of Computer Science, Nanjing Univesity. (2025-2028, if smoothly)
+
+## Teaching
+📖TA, Computer Networks Course, 2024 Spring
 
 ## Interest
-favourite game: Genshin Impact😋
+game: Genshin Impact😋, Valorant🔫
+photography📷
+bodybuilding
 <!--
 **hexagonal-banana/hexagonal-banana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
