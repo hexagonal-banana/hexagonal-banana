@@ -3,7 +3,7 @@ This is hexagonal-banana's github account😊
 
 ## Education
 🖥️Bachelor, School of Computer Science, Nanjing Univesity. (2021-2025)  
-🖥️Graduate, School of Computer Science, Nanjing Univesity. (2025-2028, if smoothly)
+🖥️Graduate, School of Computer Science, Nanjing Univesity. (2025-2028)
 
 ## Teaching
 📖TA, Computer Networks Course, 2024 Spring
