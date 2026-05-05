@@ -11,7 +11,7 @@ This is hexagonal-banana's github account😊
 ## Interest
 game: Genshin Impact😋, Valorant🔫  
 photography📷  
-bodybuilding  
+Body Building  
 <!--
 **hexagonal-banana/hexagonal-banana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
